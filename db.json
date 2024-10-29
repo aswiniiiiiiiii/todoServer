@@ -1,0 +1,42 @@
+{
+  "notes": [
+    {
+      "id": "65fd",
+      "tasks": "mediation"
+    },
+    {
+      "id": "417a",
+      "tasks": "Homework"
+    },
+    {
+      "id": "0a89",
+      "tasks": "Gardening"
+    },
+    {
+      "id": "1c56",
+      "tasks": "Gym"
+    }
+  ],
+  "TaskCompleted": [
+    {
+      "id": "831f",
+      "tasks": "Gardening",
+      "completedAt": "10/29/2024, 8:05:53 PM"
+    },
+    {
+      "id": "9bd9",
+      "tasks": "Pay current bill",
+      "completedAt": "10/29/2024, 8:14:34 PM"
+    },
+    {
+      "id": "f5d5",
+      "tasks": "Yoga class",
+      "completedAt": "10/29/2024, 8:26:54 PM"
+    },
+    {
+      "id": "81a1",
+      "tasks": "Assignment",
+      "completedAt": "10/29/2024, 8:27:21 PM"
+    }
+  ]
+}
